@@ -168,7 +168,7 @@
                 Marine transportation involves moving goods
                 and passengers using ships and other water
                 vessels. It supports international trade and
-                connects businesses across different countries.
+                connects businesses across different countries worldwide .
             </p>
         </div>
 
