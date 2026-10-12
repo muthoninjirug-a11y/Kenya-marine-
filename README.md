@@ -210,7 +210,7 @@
                 Port operations include loading and unloading
                 cargo, storing goods and assisting vessels
                 at the port. Efficient port services support
-                smooth shipping and maritime trade.
+                smooth shipping and marine trade.
             </p>
         </div>
 
